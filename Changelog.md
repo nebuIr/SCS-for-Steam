@@ -13,6 +13,6 @@ Star Citizen Skin for Steam - Changelog
 ============================
 
 -- v0.1 (8th of September 2015)
-=======
+=========
 
   • First public release
