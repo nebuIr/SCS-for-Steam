@@ -1,4 +1,4 @@
-Star Citizen Skin for Steam v0.1.1
+Star Citizen Skin for Steam v0.2
 ============================
 
 ###IMPORTANT
@@ -17,6 +17,15 @@ It is important that you install ALL the fonts in the fonts folder or this skin 
 3. Open up Steam then open up the Steam Settings Window. Click on the Interface tab, and under the option that says "Select the skin you wish Steam to use (requires Steam to restart)", click on the dropdown, and select "StarCitizen for Steam".
 4. Now restart the Steam client. The skin should now be applied.
 
+Change theme of SCS-for-Steam
+=============================
+
+##How To
+
+1. Copy content of related theme folder in `themes` (e.g. `AEGIS`, `RSI`,...)
+    - path: `SCS-for-Steam/themes`
+2. Paste the content into `SCS-for-Steam`
+3. Confirm overriding the existing files
 
 Orbitron font
 =============
