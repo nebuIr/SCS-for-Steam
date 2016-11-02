@@ -1,7 +1,12 @@
 Star Citizen Skin for Steam - Changelog
 =================================
-  • Created by CrunchySpirit
-  • Latest Version: v0.1.1
+  • Created by nebulr
+  • Latest Version: v0.2.1.1
+
+-- v0.2.1.1 (2nd of November 2016)
+=========
+
+  • Made instructions for how to change themes (hopefully) more understanding
 
 -- v0.2.1 (2nd of November 2016)
 =========
