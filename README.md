@@ -22,10 +22,12 @@ Change theme of SCS-for-Steam
 
 ##How To
 
-1. Copy content of related theme folder in `themes` (e.g. `AEGIS`, `RSI`,...)
-    - path: `SCS-for-Steam/themes`
-2. Paste the content into `SCS-for-Steam`
-3. Confirm overriding the existing files
+1. Go to `SCS-for-Steam/themes`
+2. Choose your theme and open the related folder (e.g. `AEGIS`, `RSI`,...)
+3. Copy content of this folder
+4. Paste the content into `SCS-for-Steam`
+5. Confirm overriding the existing files
+      - e.g. if I have chosen to change my theme to AEGIS, I have to copy the content of `SCS-for-Steam/themes/AEGIS`and paste it into `SCS-for-Steam`
 
 Orbitron font
 =============
