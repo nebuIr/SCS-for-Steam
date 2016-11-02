@@ -1,4 +1,4 @@
-Star Citizen Skin for Steam v0.2.1
+Star Citizen Skin for Steam v0.2.1.1
 ============================
 
 ###IMPORTANT
